@@ -7,8 +7,8 @@
 /// </summary>
 public class QuickBloxConectionSettings
 {
-	public  string ApplicationId = "1532";
-	public  string AuthenticationKey = "mwHzRCTqSAzxHxc";
-	public  string AuthenticationSecret = "rwB2EAXXSZZZ4Se";
+	public  string ApplicationId = "9449";
+	public  string AuthenticationKey = "UKLCKEX7nW8t88u";
+	public  string AuthenticationSecret = "H6ba4W65ZunPhgd";
 	public  string Endpoint = "https://api.quickblox.com/";
 }
