@@ -16,17 +16,17 @@ public class Main : MonoBehaviour
 	/// Sample folder 
 	/// /QuickBlox/AppId<ID>
 	/// </summary>
-    private string SampleFolder="/QuickBlox/AppId1532";
+    private string SampleFolder="/QuickBlox/AppId9449";
 	
 	/// <summary>
 	/// Login from QuickBlox.
 	/// </summary>
-	private string UserName = "rsk";
+	private string UserName = "olgasan";
 	
 	/// <summary>
 	/// Password from QuickBlox.
 	/// </summary>
-	private string Password = "QWE510091";	
+	private string Password = "blablabla";	
 	
 	/// <summary>
 	/// The list of files.
